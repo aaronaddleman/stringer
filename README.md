@@ -22,3 +22,18 @@ touch main.go
 # add Cobra as a dependency
 go get -u github.com/spf13/cobra@latest
 ```
+
+## task
+
+* install
+
+``` shell
+go install github.com/go-task/task/v3/cmd/task@latest
+```
+
+* run
+
+``` shell
+task run
+```
+
